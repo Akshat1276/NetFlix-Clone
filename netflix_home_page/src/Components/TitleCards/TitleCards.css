@@ -12,7 +12,14 @@
 .card-list{
     display: flex;
     gap: 10px;
+    overflow-x: scroll;
 
+}
+
+.card-list::-webkit-scrollbar{
+    display: none;
+    /* display-z = no
+    display-z : none -all */
 }
 
 .card-list img{
