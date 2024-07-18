@@ -56,3 +56,16 @@
     cursor: pointer;
 }
 
+.form-help{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #b3b3b3;
+    font-size: 13px;
+}
+
+.remember{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
