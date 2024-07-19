@@ -21,5 +21,15 @@
 .player-info{
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
+}
+
+.p1{
+    text-align: left;
+    padding-right: 450px;
+}
+
+.p3{
+    text-align: right;
+    padding-left: 450px;
 }
