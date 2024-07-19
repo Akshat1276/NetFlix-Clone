@@ -10,3 +10,7 @@ faqs.forEach((faq)=>{
     })
  
 })
+
+function getstarted() {
+    location.replace("https://www.w3schools.com")
+  }

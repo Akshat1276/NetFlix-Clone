@@ -88,14 +88,20 @@ nav button {
 }
 
 .btn{
+    color: white;
     font-family: "Poppins", sans-serif;
     padding: 3px 8px;
     font-weight: 400;
-    color: white;
     background-color: rgba(248, 243, 243, 0.021);
     border-radius: 4px;
     border: 1px solid white;
     cursor: pointer;
+}
+
+select {
+    width: 10rem;
+    background-color: #c3f0c6;
+    border: #b2eeac 2px solid
 }
 
 .btn-red-sm{
